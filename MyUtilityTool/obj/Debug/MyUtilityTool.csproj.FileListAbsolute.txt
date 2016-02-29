@@ -1,0 +1,6 @@
+c:\users\俊太\documents\visual studio 2015\Projects\MyUtilityTool\MyUtilityTool\bin\Debug\MyUtilityTool.exe.config
+C:\Users\俊太\Documents\Visual Studio 2015\Projects\MyUtilityTool\MyUtilityTool\bin\Debug\MyUtilityTool.exe
+C:\Users\俊太\Documents\Visual Studio 2015\Projects\MyUtilityTool\MyUtilityTool\bin\Debug\MyUtilityTool.pdb
+C:\Users\俊太\Documents\Visual Studio 2015\Projects\MyUtilityTool\MyUtilityTool\obj\Debug\MyUtilityTool.csprojResolveAssemblyReference.cache
+C:\Users\俊太\Documents\Visual Studio 2015\Projects\MyUtilityTool\MyUtilityTool\obj\Debug\MyUtilityTool.exe
+C:\Users\俊太\Documents\Visual Studio 2015\Projects\MyUtilityTool\MyUtilityTool\obj\Debug\MyUtilityTool.pdb
